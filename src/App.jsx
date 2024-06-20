@@ -11,7 +11,7 @@ function App() {
             <p> /3</p>
           </div>
           <div className='botoes'>
-            <div className="linhas"> <Botao color={"#a5a5a5"} background={"#616161"} text={"CE"}> Teste</Botao></div>
+            <div className="linhas"> <Botao color={"#a5a5a5"} background={"#616161"} text={"CE/"}> Teste</Botao></div>
           </div>
         </div>
 
